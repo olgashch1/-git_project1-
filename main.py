@@ -10,6 +10,7 @@ def print_hi(name):
     print('And bye')# Press Ctrl+F8 to toggle the breakpoint.
     print('krach')
     print('krach')
+    print('Commit')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
