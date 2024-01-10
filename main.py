@@ -11,6 +11,7 @@ def print_hi(name):
     print('krach')
     print('krach')
     print('Commit')
+    print('Online')
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
